@@ -23,7 +23,7 @@ function App() {
   
       updateSize();
       window.addEventListener('resize', updateSize, false);
-      document.body.addEventListener('click', initRandomScene);
+      // document.body.addEventListener('click', initRandomScene);
   
       initScene();
       requestAnimationFrame(animate);
