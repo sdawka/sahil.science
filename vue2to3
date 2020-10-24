@@ -1,0 +1,3 @@
+1. Take in everything inside template and script separately
+2. check xml structure for template and object keys for script
+3. add imports and setup function and convert data and computed code and move methods
